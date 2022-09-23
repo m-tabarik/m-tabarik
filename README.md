@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-tabarik;
+- 👋 Hi, I’m Human :) i guess may be;
 - 👀 I’m interested in computer programming;
 - 🌱 I’m currently learning computer science;
 - 💞️ I’m looking to collaborate on cyber security;
