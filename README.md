@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Computer Science Student :) ;
-- 👀 I’m interested in Cyber Security;
+- 👀 My interest lies in the realm of Cybersecurity, and I strive to expand my knowledge in this area;
 - 🌱 I’m currently learning computer science;
 - 💞️ I’m looking to collaborate on cyber security;
 - 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/mtabarikasif/)
