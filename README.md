@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Cyber Security Student :) ;
-- 👀 I’m interested in computer programming;
+- 👋 Hi, I’m Computer Science Student :) ;
+- 👀 I’m interested in Cyber Security;
 - 🌱 I’m currently learning computer science;
 - 💞️ I’m looking to collaborate on cyber security;
-- 📫 How to reach me ...
+- 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/mtabarikasif/)
+- 
 
 <!---
 m-tabarik/m-tabarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
