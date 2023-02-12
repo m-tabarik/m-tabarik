@@ -3,7 +3,6 @@
 - 🌱 I am actively pursuing studies in the field of Computer Science, constantly seeking to broaden my understanding and skillset;
 - 💞️ Seeking collaboration in Cybersecurity for personal and professional growth.;
 - 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/mtabarikasif/)
-- 
 
 <!---
 m-tabarik/m-tabarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
