@@ -1,4 +1,4 @@
-👋 CS final semester student | Ethical Hacker & Bug Bounty Hunter 💻 | Google Cybersecurity & IBM Analyst 🏆 | Python & Bash Enthusiast 🐍 | Seeking Cybersecurity Collaborations 🤝 | Let's connect on 📫[LinkedIn](https://www.linkedin.com/in/mtabarikasif/)! 
+👋 CS Graduate | Ethical Hacker & Bug Bounty Hunter 💻 | Google Cybersecurity & IBM Analyst 🏆 | Python & Bash Enthusiast 🐍 | Seeking Cybersecurity Collaborations 🤝 | Let's connect on 📫[LinkedIn](https://www.linkedin.com/in/mtabarikasif/)! 
 
 
 <!---
