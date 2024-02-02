@@ -39,10 +39,6 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   
 </p>
 
-
-  
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/+92-320-8098749-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
-
  <br>
   
 👋 Greetings! I'm M TABARIK ASIF, a passionate advocate for cybersecurity, ethical hacking, and bug bounty hunting. 💻 As a Computer Science Graduate, I have over 3 years of hands-on experience in offensive security, specializing in Web/API hacking, automation, virtualization, and other security related fields such as ACTIVE DIRECTORY, CLOUD SECURITY. My proficiency in Python and bash scripting further enhances my ability to address cybersecurity challenges.
