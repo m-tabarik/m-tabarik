@@ -40,11 +40,9 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 </p>
 
 
-  ![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/+1-518--468--2511-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/naemazam/custom-icon-badges?logo=tag&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
+  
+  <img  src="https://custom-icon-badges.herokuapp.com/badge/+92-320-8098749-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
+
  <br>
   
 👋 Greetings! I'm M TABARIK ASIF, a passionate advocate for cybersecurity, ethical hacking, and bug bounty hunting. 💻 As a Computer Science Graduate, I have over 3 years of hands-on experience in offensive security, specializing in Web/API hacking, automation, virtualization, and other security related fields such as ACTIVE DIRECTORY, CLOUD SECURITY. My proficiency in Python and bash scripting further enhances my ability to address cybersecurity challenges.
