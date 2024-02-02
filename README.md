@@ -36,6 +36,8 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="discordapp.com/users/848211925602664449" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="bugcrowd.com/alqursaan" alt="BugCrowd"><img width="32px" src="./img/kalilinux.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p>
 
