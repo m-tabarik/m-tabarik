@@ -286,9 +286,9 @@ leetcode: https://leetcard.jacoblin.cool/ -->
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/crom.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/parrot.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Chrome OS
+      <br>Parrot OS
     </td>
     </tr>
 </table>
@@ -316,9 +316,9 @@ leetcode: https://leetcard.jacoblin.cool/ -->
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/p.png" width="48" height="48" alt="Proteus" />
+        <img src="./img/nessus.png" width="48" height="48" alt="Proteus" />
       </a>
-      <br>Proteus
+      <br>Nessus
     </td>
    <td align="center" width="96">
       <a href="#">
