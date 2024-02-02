@@ -491,5 +491,5 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <h1 align="center">Summary Of My Github Live Graph</h1>
 </p>  
 
-![](https://activity-graph.herokuapp.com/graph?username=m-tabarik&theme=xcode&area=true)
+![Live Graph](https://activity-graph.herokuapp.com/graph?username=m-tabarik&theme=xcode&area=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-tabarik&theme=github_dark)
