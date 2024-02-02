@@ -1,7 +1,7 @@
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
   Welcome to M Tabarik Asif's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGcyZzFiNXp0enlyNGlyaGpnMGZxd3owZDRsc3ZkZDVlajdxOHh5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
