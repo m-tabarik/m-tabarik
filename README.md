@@ -345,14 +345,8 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 <p align="center">
   <a href="https://github.com/naemazam?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
-  <h2> My Projects Box </h2>
   
-<br/> 
-<p align="center">
-  <a href="https://naemazam.github.io/My-Projects/"><img alt="All Projects" title="All Projects" src="https://custom-icon-badges.herokuapp.com/badge/-My%20projects-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-  
+<br/>
 
 <h2> Static Website Project </h2>
   <table> 
