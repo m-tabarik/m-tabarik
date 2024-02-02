@@ -347,7 +347,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   
 
 
-<h2> Static Website Project </h2>
+<h2>  </h2>
 
   
   
