@@ -1,13 +1,13 @@
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
-  Welcome to Naem Azam's profile!
+  Welcome to M Tabarik Asif's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Naem+Azam;I'm+Self-taught+Programmer;I+am+an+open-source+enthusiast;I+am+a+creator;I+am+a+system+analyzer;I+am+a+researcher"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+N+Tabarik+Asif;I'm+Self-taught+Programmer;I+am+an+open-source+enthusiast;I+am+a+creator;I+am+a+system+analyzer;I+am+a+researcher"></a>
   </h2>
  
  <!-- platfrom -->
@@ -70,49 +70,35 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
  <br>
   
-Hi, I'm [Naem Azam](http://naemazam.com/), a passionate self-taught Programmer, an open-source enthusiast, and a maintainer and National level hackathon winner🥇 🇨🇳. My passion for Systems lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
+👋 Greetings! I'm M TABARIK ASIF, a passionate advocate for cybersecurity, ethical hacking, and bug bounty hunting. 💻 As a Computer Science Graduate, I have over 3 years of hands-on experience in offensive security, specializing in Web/API hacking, automation, virtualization, and other security related fields such as ACTIVE DIRECTORY, CLOUD SECURITY. My proficiency in Python and bash scripting further enhances my ability to address cybersecurity challenges.
 
+🛡️ Currently as a freelance bug bounty hunter, I actively contribute to fostering a cybersecurity-aware community and engaging in collaborative initiatives. My commitment to cyber defense extends beyond the academic realm into real-world scenarios.
 
-I’m a research scientist working to better understand About AI and Cybersecurity. My expertise includes Linux System Administration, IT Support Specialist, Web development, and implementation of AI research tools. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. My Friends would describe me as a driven, resourceful individual who maintains a positive, proactive attitude when faced with adversity. Currently, I’m seeking opportunities that will allow me to develop and promote technologies that benefit Companies. Specific fields of interest include Open-source Development, BlockChain, Networking, Linux OS Development, Digital forensics, System analysis, and Automotion.
+🔍 My expertise includes conducting penetration tests, identifying vulnerabilities, and staying ahead of emerging cyber threats. I take pride in my unique approach to problem-solving and collaboration, attributes that have been refined through my experiences as a Bug Bounty Hunter.
 
+💡 Beyond academia, I'm deeply involved in the bug hunting community, continually learning and sharing knowledge. I believe in the power of technology to shape a secure and resilient future.
 
-I am also a freelancer and have been working online for more than 3 years. I have completed 200+ projects in my freelancing career. The most essential feature of me is that I am a reliable worker dedicating myself fully to my projects. Just handover your tasks to me and take a rest
+🔐 Eager to explore opportunities that allow me to contribute to cutting-edge technologies in cybersecurity. Interested fields include penetration testing, secure coding practices, digital forensics, and defensive security.
+
+💼 Let's connect and explore the dynamic world of cybersecurity together. Ready to collaborate on projects that reinforce our digital defenses!
 
 
   <img align="right" alt="GIF" src="https://github.com/naemazam/naemazam/blob/main/new-Converted.gif?raw=true" width="500" height="320" />
   
   
   
-- 🔭 I’m currently working on [Research Work](https://naemazam.github.io/Researcher/)
+- 🔭 I’m currently working on My unique skills.
 
-- 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/My-Projects)
+- 👨‍💻 All of my projects are available at [Projects](https://mtabarikasif.github.io/)
 
-- 💬 Ask me about **Linux, Python,AI, CMD, PowerShell**
+- 💬 Ask me about **Linux, Python, OWASP, vulnerabilities, CMD, PowerShell**
 
-- 📄 Know about my [Experiences](https://naemazam.github.io/#resume)
-- 👨‍💻 Hire Me as [Freelancer](http://naemazam.com/)
+- 📄 Know about my [Experiences](https://mtabarikasif.github.io/#resume)
+- 👨‍💻 Hire Me as [Freelancer]([http://](https://www.linkedin.com/in/mtabarikasif/)
 
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
 
 
- # Research 
-  
-   <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0008-9398-3902"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0008-9398-3902
-    </a>
-    
- [Science Open ](https://www.scienceopen.com/user/naemazamchowdhury)
- 
 
 <h2 align="left" id="naemazam">Certificates</h2>
 
@@ -136,13 +122,13 @@ I am also a freelancer and have been working online for more than 3 years. I hav
       <a href="#">
         <img src="./img/cyberly.png" width="48" height="48" alt="c" />
       </a>
-      <br>CompTIA Network+
+      <br>CompTIA Security+ (Udemy)
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
       </a>
-      <br>Linux System Administration
+      <br>Linux Systems
     </td>
      </tr>
 </table>
@@ -179,18 +165,6 @@ I am also a freelancer and have been working online for more than 3 years. I hav
       </a>
       <br>C++
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/m.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>markdown
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./img/html.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>HTML
-    </td>
      <td align="center" width="96">
       <a href="#">
         <img src="./img/sql.png" width="48" height="48" alt="TypeScript" />
@@ -226,24 +200,6 @@ I am also a freelancer and have been working online for more than 3 years. I hav
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/flutter.png" width="48" height="48" alt="Golang" />
-      </a>
-      <br>flutter
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="img/react-original.svg" width="48" height="48" alt="react" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="./img/github.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>GitHub-Action
@@ -259,12 +215,6 @@ I am also a freelancer and have been working online for more than 3 years. I hav
         <img src="./img/flask.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/qt.png" width="48" height="48" alt="qt" />
-      </a>
-      <br>QT
     </td>
     </tr>
 </table>
@@ -354,9 +304,9 @@ I am also a freelancer and have been working online for more than 3 years. I hav
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/anaconda.png" width="48" height="48" alt="Python" />
+        <img src="https://www.pngegg.com/en/png-eeqlf" width="48" height="48" alt="Python" />
       </a>
-      <br>Anaconda
+      <br>Hacking Tools
     </td>
     <td align="center" width="96">
       <a href="#">
