@@ -1,4 +1,3 @@
-[![MasterHead](00086-desk-anim-v0.3.gif)]()
 <img src="https://media.giphy.com/media/lo5HLcAPFSgTZNTpAn/giphy-downsized-large.gif" width="100%">
 <h3 align="center">
   Welcome to M Tabarik Asif's profile!
