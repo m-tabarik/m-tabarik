@@ -470,26 +470,26 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 <table align="center" border="1">
 <tr align="center">
-<td colspan="3"><img align="left" src="https://github-readme-stats.vercel.app/api?username=naemazam&theme=tokyonight&show_icons=true" /></td>
+<td colspan="3"><img align="left" src="https://github-readme-stats.vercel.app/api?username=m-tabarik&theme=tokyonight&show_icons=true" /></td>
 </tr>
 <tr align="center">
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naemazam&theme=tokyonight&show_icons=true" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naemazam&theme=github_dark" /></td>
-<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naemazam&theme=github_dark"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-tabarik&theme=tokyonight&show_icons=true" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-tabarik&theme=github_dark" /></td>
+<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-tabarik&theme=github_dark"/></td>
 </tr>
 <tr align="center">
-<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naemazam&theme=github_dark"/></td>
+<td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-tabarik&theme=github_dark"/></td>
 </tr>
 <tr align="center">
-<td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naemazam&" alt="naemazam" /></td>
+<td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-tabarik&" alt="naemazam" /></td>
 </tr>
 </table>
   
-<p align="center">  <a href="https://www.buymeacoffee.com/naemazam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
+<p align="center">  <a href="https://www.buymeacoffee.com/mtabarikasif" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
   
  <p align="center">
   <h1 align="center">Summary Of My Github Live Graph</h1>
 </p>  
 
-[![contributions](https://activity-graph.herokuapp.com/graph?username=naemazam&theme=xcode&area=true)](https://github.com/naemazam)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naemazam&theme=github_dark)
+[![contributions](https://activity-graph.herokuapp.com/graph?username=m-tabarik&theme=xcode&area=true)](https://github.com/m-tabarik)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-tabarik&theme=github_dark)
