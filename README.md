@@ -7,7 +7,7 @@
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+N+Tabarik+Asif;I'm+Self-taught+Programmer;I+am+an+open-source+enthusiast;I+am+a+creator;I+am+a+system+analyzer;I+am+a+researcher"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+M+Tabarik+Asif;I'm+Self-taught+Programmer;I+am+an+open-source+enthusiast;I+am+a+creator;I+am+a+system+analyzer;I+am+a+researcher"></a>
   </h2>
  
  <!-- platfrom -->
@@ -304,7 +304,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.pngegg.com/en/png-eeqlf" width="48" height="48" alt="Python" />
+        <img src="./img/pngegg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Hacking Tools
     </td>
