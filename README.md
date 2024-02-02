@@ -343,10 +343,10 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 </p>
 
 <p align="center">
-  <a href="https://github.com/naemazam?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/m-tabarik?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
   
-<br/>
+
 
 <h2> Static Website Project </h2>
   <table> 
