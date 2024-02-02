@@ -65,7 +65,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 - 💬 Ask me about **Linux, Python, OWASP, vulnerabilities, CMD, PowerShell**
 
 - 📄 Know about my [Experiences](https://mtabarikasif.github.io/#resume)
-- 👨‍💻 Hire Me as [Freelancer]([http://](https://www.linkedin.com/in/mtabarikasif/)
+- 👨‍💻 Hire Me as [Freelancer](https://www.linkedin.com/in/mtabarikasif/)
 
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
 
