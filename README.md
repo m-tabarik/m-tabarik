@@ -458,68 +458,13 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   
   </table>
   
-
-  
-  <h2> Script </h2>
-  <table> 
-    <tr>
-    <th> Project name </th>
-     <th> Abstract </th>
-     <th> GitHub Links </th>
-     <th> Language </th>
-    </tr>
-  <tr>
-    <td> Hello World </td>
-     <td> I don't Know What is Your First Language and Don't Want to know Why You Select it. But As a Programmer i know, The Smile When You run Your First Code. After That We made Thousands of Mistake In our DEV life. We did Debug, Copycat or Googling But never Forget This First 2 Words. Let's Combine Our First Happiness In A single Page. </td>
-      <td>  <a href="https://github.com/naemazam/Hello-World#readme" target="blank"> ReadMe </a> </td>
-          <td>  <a href="" target="blank"> - </a> </td>
-    </tr>
-   <tr>
-    <td>Text to Morse</td>
-     <td>Convert Text to Morse Code With Python</td>
-    <td>  <a href="https://github.com/naemazam/Text-to-morse#readme" target="blank"> ReadMe </a> </td>
-      <td>  Python </td>
-    </tr>
-  <tr>
-    <td>Seven segment printer</td>
-     <td>print Like 7-seg LED display</td>
-    <td>  <a href="https://github.com/naemazam/Seven-segment-printer#readme" target="blank"> ReadMe </a> </td>
-      <td> Python </td>
-    </tr>
-  <tr>
-    <td>Word to Binary Convert</td>
-     <td>Convert Your Loveletter to Binary</td>
-    <td>  <a href="https://github.com/naemazam/Word-to-Binary-Convert#readme" target="blank"> ReadMe </a> </td>
-      <td> C </td>
-    </tr>
-  <tr>
-    <td>Roman to Decimal converter</td>
-     <td>Python based Roman to Decimal converter</td>
-    <td>  <a href="https://github.com/naemazam/Roman-to-Decimal-converter#readme" target="blank"> ReadMe </a> </td>
-      <td> Python </td>
-    </tr>
-  <tr>
-    <td>C-Syntax-Tracker</td>
-     <td>This program will read another ( .cpp ) file and gives a complete information about the code in that file</td>
-    <td>  <a href="https://github.com/naemazam/C-Syntax-Tracker#readme" target="blank"> ReadMe </a> </td>
-      <td> C++ </td>
-    </tr>
-  <tr>
-  <td> Periodic table</td>
-     <td>Let's Gather Periodic table Information By python</td>
-    <td>  <a href="https://github.com/naemazam/Periodic-table#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="" target="blank"> python</a> </td>
-  </tr>
-  </table>
-  
-  
   <p align="center">
   <h1 align="center">Summary Of My Github Status</h1>
 </p>
   
 <br/>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=naemazam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=m-tabarik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
