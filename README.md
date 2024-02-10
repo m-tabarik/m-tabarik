@@ -24,7 +24,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 <!-- social -->
  <p align="center">
-   <a href="http://mtabarikasif.github.io/"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
+   <a href="http://m-tabarik.github.io/profile"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Wechat"><img width="32px" src="./img/wechat.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
