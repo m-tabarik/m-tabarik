@@ -6,7 +6,7 @@
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
-<h2 align="mid">
+<h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+M+Tabarik+Asif;A+Bug+Bounty+Hunter;A+Penetration+Tester;A+freelance+Security+researcher;"></a>
   </h2>
  
