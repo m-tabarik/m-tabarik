@@ -7,7 +7,7 @@
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+M+Tabarik+Asif;I'm+Bug+Bounty+Hunter;I+am+a+Penetration+Tester;I+am+a+freelance+Security+researcher;"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+M+Tabarik+Asif;A+Bug+Bounty+Hunter;A+Penetration+Tester;A+freelance+Security+researcher;"></a>
   </h2>
  
  <!-- platfrom -->
