@@ -14,7 +14,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
  <p align="center">
   <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@mtabarikasif"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
+  <a href="https://medium.com/@mtabarikasif"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/mtabarikasif"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
